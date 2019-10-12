@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\bin\Debug\Ejercicio1Guia9.exe.config
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\bin\Debug\Ejercicio1Guia9.exe
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\bin\Debug\Ejercicio1Guia9.pdb
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\obj\Debug\Ejercicio1Guia9.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\obj\Debug\Ejercicio1Guia9.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\obj\Debug\Ejercicio1Guia9.exe
+C:\Users\luisa\source\repos\NUEVE\Ejercicio1Guia9\obj\Debug\Ejercicio1Guia9.pdb
